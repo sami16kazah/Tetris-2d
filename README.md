@@ -1,2 +1,2 @@
 # Tetris-2d
-Tetris 2d gam full responsive using html java script bootstrap
+Tetris 2d game full responsive using html java script bootstrap
